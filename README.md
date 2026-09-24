@@ -53,9 +53,3 @@ to bootstrap a box from this channel.
 the full `x.y.z.w` tuple and only ever moves forward. Publishing is done by
 SVIDIA's `publish_update.ps1`, which uploads and hash-verifies the release asset
 first and rewrites this feed last.
-
-## Changelog
-
-### 8.0.712.0
-- Channel bootstrap: the shipped baseline at the time the update channel was
-  created. Later entries are added here with each published update.
