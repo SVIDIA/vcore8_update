@@ -1,8 +1,8 @@
 {
   "Name": "VCORE8",
-  "Version": "8.0.1419.0",
-  "URL": "https://github.com/SVIDIA/vcore8_update/releases/download/v8.0.1419.0/vcore8-update-8.0.1419.0.exe",
+  "Version": "8.0.1521.0",
+  "URL": "https://github.com/SVIDIA/vcore8_update/releases/download/v8.0.1521.0/vcore8-update-8.0.1521.0.exe",
   "INFO_URL": "https://github.com/SVIDIA/vcore8_update#readme",
-  "SHA256": "a4e72e4284e9a0170bb464fca4b356bb5963659c4ff2b5c242b7e66d7d9cf32d",
-  "Size": 92343800
+  "SHA256": "68fbd30aaffdb0fe222ba3eb04ceb8c3d41ddfdff1cedc469d8e53866e891e16",
+  "Size": 92373128
 }
