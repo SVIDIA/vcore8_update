@@ -1,8 +1,8 @@
 {
   "Name": "VCORE8-LINUX-AMD64",
-  "Version": "8.0.1521",
-  "URL": "https://github.com/SVIDIA/vcore8_update/releases/download/v8.0.1521-linux-amd64/vcore8_8.0.1521_amd64.deb",
+  "Version": "8.0.1531",
+  "URL": "https://github.com/SVIDIA/vcore8_update/releases/download/v8.0.1531-linux-amd64/vcore8_8.0.1531_amd64.deb",
   "INFO_URL": "https://github.com/SVIDIA/vcore8_update#readme",
-  "SHA256": "440e75ae898462755e40db273e0a80156ea4c2d0ea3575f6276772a9d4840202",
-  "Size": 101629364
+  "SHA256": "932dc76aa7b1aee5a3e8f3b979a5aed4890671d8361c83ca03debd05ac85c9b5",
+  "Size": 101648340
 }
